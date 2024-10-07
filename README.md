@@ -23,7 +23,7 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 - 🚀 &nbsp; Software Engineer.
 - 🛠 &nbsp; I’m currently working with React.js, JavaScript, MySQL, Node.js, MongoDB etc.
 - 👨🏻‍💻 &nbsp; Most of my open-source projects are available on [Github](https://github.com/shaakilahammed?tab=repositories).
-- 📝 &nbsp; Checkout my [Resume](https://github.com/shaakilahammed/shaakilahammed/blob/master/Shakil's_Resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/shaakilahammed/shaakilahammed/blob/master/MD_SHAKIL_AHAMMED.pdf).
 
 ### My Absolute Favorites:
 
