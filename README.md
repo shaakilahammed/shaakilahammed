@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Shakil%20Ahammed" alt="Shakil Ahammed banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,35:ee0979,70:7f00ff,100:00c6ff&height=220&section=header&text=Shakil%20Ahammed&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Mobile%20%26%20Web%20Developer&descSize=20&descAlignY=60" alt="Shakil Ahammed banner" width="100%" />
 
 <a href="https://github.com/shaakilahammed">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Building+mobile+and+web+apps;React+Native+%7C+React+%7C+Laravel;Currently+sharpening+my+DSA+skills" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F7B731&center=true&vCenter=true&width=620&lines=Building+mobile+and+web+apps;React+Native+%7C+React+%7C+Laravel;Currently+sharpening+my+DSA+skills" alt="Typing intro" />
 </a>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakil-ahammed-26a0bb151/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://shaakilahammed.github.io/)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/shaakilahammed)
-[![Email](https://img.shields.io/badge/Email-e4405f?style=flat-square&logo=gmail&logoColor=white)](mailto:shaakilahammed@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakil-ahammed-26a0bb151/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6A00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shaakilahammed.github.io/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shaakilahammed)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaakilahammed@gmail.com)
 
 </div>
 
@@ -116,6 +116,6 @@ More on my [repositories page](https://github.com/shaakilahammed?tab=repositorie
 
 If something here is useful, a ⭐ on my repositories is always appreciated.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,35:7f00ff,70:ee0979,100:ff6a00&height=120&section=footer" alt="footer" width="100%" />
 
 </div>
