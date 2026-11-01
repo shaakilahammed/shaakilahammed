@@ -65,7 +65,6 @@
 | [**react-blog-app**](https://github.com/shaakilahammed/react-blog-app) | Blog front end with a React UI | React, JavaScript |
 | [**node-express-mongodb-blog-app**](https://github.com/shaakilahammed/node-express-mongodb-blog-app) | Server-rendered blog with Express and EJS views | Node.js, Express, MongoDB, EJS |
 | [**react-weather-app**](https://github.com/shaakilahammed/react-weather-app) | Weather app that shows current conditions for a searched city | React, JavaScript |
-| [**Crud-Operation-Laravel**](https://github.com/shaakilahammed/Crud-Operation-Laravel) | CRUD application showing Laravel fundamentals | Laravel, PHP, MySQL |
 
 More on my [repositories page](https://github.com/shaakilahammed?tab=repositories).
 
