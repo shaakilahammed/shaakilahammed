@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Shakil%20Ahammed&fontSize=46&fontColor=ffffff&desc=Mobile%20%26%20Web%20Developer&descSize=18&descAlignY=65" alt="Shakil Ahammed banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Shakil%20Ahammed" alt="Shakil Ahammed banner" />
 
 <a href="https://github.com/shaakilahammed">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Building+mobile+and+web+apps;React+Native+%7C+React+%7C+Laravel;Currently+sharpening+my+DSA+skills" alt="Typing intro" />
