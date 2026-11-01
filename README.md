@@ -77,31 +77,13 @@ More on my [repositories page](https://github.com/shaakilahammed?tab=repositorie
 
 ## GitHub stats
 
-<table align="center">
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shaakilahammed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shaakilahammed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
-        <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shaakilahammed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shaakilahammed&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shaakilahammed&layout=compact&langs_count=8&hide_border=true&theme=default" />
-        <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaakilahammed&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shaakilahammed/shaakilahammed/master/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/shaakilahammed/shaakilahammed/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" width="49%" />
+</div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shaakilahammed&hide_border=true&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=shaakilahammed&hide_border=true&theme=default" />
-    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=shaakilahammed&hide_border=true&theme=tokyonight" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=shaakilahammed&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </div>
 
 ## Contribution snake
