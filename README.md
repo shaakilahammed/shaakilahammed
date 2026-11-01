@@ -58,17 +58,20 @@
 
 ## Featured projects
 
-| Project | Description | Tech | Link |
-| --- | --- | --- | --- |
-| **[PROJECT NAME 1]** | [One-line description] | [React Native, Laravel] | [Link](#) |
-| **[PROJECT NAME 2]** | [One-line description] | [React, TypeScript] | [Link](#) |
-| **[PROJECT NAME 3]** | [One-line description] | [Symfony, MySQL] | [Link](#) |
+| Project | Description | Tech |
+| --- | --- | --- |
+| [**react-ecommerce-app-from-scratch**](https://github.com/shaakilahammed/react-ecommerce-app-from-scratch) | E-commerce storefront built in React without a starter template | React, JavaScript |
+| [**node-express-mongodb-ecommerce-api**](https://github.com/shaakilahammed/node-express-mongodb-ecommerce-api) | REST API for an e-commerce backend | Node.js, Express, MongoDB |
+| [**react-blog-app**](https://github.com/shaakilahammed/react-blog-app) | Blog front end with a React UI | React, JavaScript |
+| [**node-express-mongodb-blog-app**](https://github.com/shaakilahammed/node-express-mongodb-blog-app) | Server-rendered blog with Express and EJS views | Node.js, Express, MongoDB, EJS |
+| [**react-weather-app**](https://github.com/shaakilahammed/react-weather-app) | Weather app that shows current conditions for a searched city | React, JavaScript |
+| [**Crud-Operation-Laravel**](https://github.com/shaakilahammed/Crud-Operation-Laravel) | CRUD application showing Laravel fundamentals | Laravel, PHP, MySQL |
 
 More on my [repositories page](https://github.com/shaakilahammed?tab=repositories).
 
 ## Currently working on
 
-- [Current project or focus area]
+- Building mobile and web applications with React Native, Laravel and Symfony
 - Solving DSA problems on [LeetCode / Codeforces / other]
 
 ## GitHub stats
