@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a5c,100:2f81f7&height=220&section=header&text=Shakil%20Ahammed&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Mobile%20and%20Web%20Developer&descSize=20&descColor=9ecbff&descAlignY=60" alt="Shakil Ahammed banner" width="100%" />
 
 <a href="https://github.com/shaakilahammed">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+mobile+and+web+apps;React+Native+%7C+React+%7C+Laravel;Currently+sharpening+my+DSA+skills" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+mobile+and+web+apps;React+Native+%7C+React+%7C+Laravel+%7C+Symfony;Currently+sharpening+my+DSA+skills" alt="Typing intro" />
 </a>
 
 <br/><br/>
@@ -20,8 +20,9 @@
 ## About me
 
 - 🛠 I build **mobile and web applications** with React Native, React, Laravel and Symfony
+- 🚀 I also handle **server setup and deployment** (AWS, Nginx, Linux)
 - 📚 Currently improving my **Data Structures & Algorithms**
-- 🎯 Open to: **[front-end / full-stack / mobile developer roles | freelance projects]**
+- 🎯 Open to: **full-stack and mobile developer roles**
 - 🎓 Graduate of [AIUB](https://www.aiub.edu/) · 📄 [Resume](https://github.com/shaakilahammed/shaakilahammed/blob/master/MD_SHAKIL_AHAMMED.pdf)
 
 ## Tech stack
@@ -29,7 +30,8 @@
 **Mobile**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js&theme=dark" alt="Mobile stack" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://skillicons.dev/icons?i=ts,js,firebase&theme=dark" alt="Mobile stack" align="center" />
 </p>
 
 **Frontend**
@@ -71,7 +73,7 @@ More on my [repositories page](https://github.com/shaakilahammed?tab=repositorie
 ## Currently working on
 
 - Building mobile and web applications with React Native, Laravel and Symfony
-- Solving DSA problems on [LeetCode / Codeforces / other]
+- Practicing data structures and algorithms to strengthen problem solving
 
 ## GitHub stats
 
